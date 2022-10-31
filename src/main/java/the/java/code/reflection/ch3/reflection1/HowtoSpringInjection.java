@@ -21,7 +21,6 @@ public class HowtoSpringInjection {
          *  class타입의 인스턴스를 만들어서 heap에다가 넣는다.
          *  그래서 아래처럼 바로 인스턴스마냥 사용할수있다.
          */
-
         //첫번째 방법
         Class<Book> bookClass = Book.class;
 
